@@ -39,7 +39,7 @@
   swordGroup=new Group();
 
     boy.setCollider("circle",0,0, 400);
-    boy.debug = true;
+    //boy.debug = true;
 
   }
 
